@@ -1,0 +1,13 @@
+.canvas-container {
+  height: 400px;
+  width: 800px;
+  margin-bottom: 150px;
+  margin-top: 50px;
+}
+.Header{
+  text-align: center;
+}
+p{
+  margin-top: 200px;
+  padding: 10px;
+}
